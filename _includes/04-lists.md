@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* line item 1
+* line item 2
