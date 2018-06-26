@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can *learn* new things well and I _will_ learn everything that I need to for this job no matter how much work it's going to be
